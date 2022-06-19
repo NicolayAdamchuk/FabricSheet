@@ -1,0 +1,10 @@
+
+*.dll
+*.pdb
+*.xml
+*.cache
+*.txt
+*.msi
+*.vdproj
+*.rvt
+*.exe

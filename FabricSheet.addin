@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+   <AddIn Type="Application">
+      <Assembly>FabricSheet.dll</Assembly>
+      <ClientId>BE596A54-07C8-42A6-9475-60434044E9C9</ClientId>
+      <FullClassName>FabricSheet.FabricSheet</FullClassName>
+	  <Text>Control fabric sheet</Text>
+      <Name>Control fabric sheet</Name>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+   </AddIn>
+</RevitAddIns>
+
+Есть изменения
