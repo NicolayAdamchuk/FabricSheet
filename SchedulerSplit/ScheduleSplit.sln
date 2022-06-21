@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleSplit", "ScheduleSplit.csproj", "{97C1B1ED-792E-4773-8281-E4AD08DC5DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C1B1ED-792E-4773-8281-E4AD08DC5DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C1B1ED-792E-4773-8281-E4AD08DC5DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C1B1ED-792E-4773-8281-E4AD08DC5DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C1B1ED-792E-4773-8281-E4AD08DC5DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C4E5A7-E377-4D18-9424-5A78CAE9E990}
+	EndGlobalSection
+EndGlobal
