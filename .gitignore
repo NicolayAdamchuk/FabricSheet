@@ -8,3 +8,7 @@
 *.vdproj
 *.rvt
 *.exe
+.vs/FabricSheet/FileContentIndex/d6930667-438b-4d5f-881a-47f4692c6b6d.vsidx
+.vs/FabricSheet/FileContentIndex/read.lock
+.vs/FabricSheet/v17/.suo
+FabricSheet/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
